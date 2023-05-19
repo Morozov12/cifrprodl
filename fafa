@@ -1,0 +1,1584 @@
+<!DOCTYPE html>
+
+<!-- MADE ON HTTPS://CREATIUM.IO -->
+
+<html>
+<head>
+
+    <!-- PLUGINS -->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="generator" content="Creatium">
+
+    <title>Цифровая продлёнка</title>
+
+    
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <script type="application/ld+json">{}</script>
+    
+<!--[if IE]><link rel="shortcut icon" href="https://i.1.creatium.io/16/66/12/45c5c460a8bffc6b405443cdeba761693e/32x32/favicon.png"><![endif]-->
+<link rel="apple-touch-icon-precomposed" href="https://i.1.creatium.io/16/66/12/45c5c460a8bffc6b405443cdeba761693e/180x180/favicon.png">
+<link rel="icon" href="https://i.1.creatium.io/16/66/12/45c5c460a8bffc6b405443cdeba761693e/196x196/favicon.png">
+                <script>
+                window.creatium = {"creatium":true,"visit_id":null,"site_id":200682,"page_id":1212620,"content_id":1176619,"lang":"ru","time":1684525640,"screens":"screens-xs-sm-md-lg","animations":[],"cookies":{"alert":0,"message":""},"integrations":[],"miscellaneous":{"cbr":[]},"misc":{"cbr":[],"cdn_host":"i.1.creatium.io"},"allow_cookies":true,"site_options":{"captcha_signup":false,"captcha_orders":false,"member_allow_signup":false,"member_allow_auth":false},"member":null,"async":{"js":["\/app\/4.2\/async?key=a62aa6db873ab6e8d62a70a980a04673","\/assets\/4.2\/vendors-async.js?v=1677864214"],"css":["\/assets\/4.2\/vendors-async.css?v=1677864214"],"js_adaptive_sections":"\/app\/4.2\/adaptive-sections?key=a62aa6db873ab6e8d62a70a980a04673"},"device":"other","scroll":{"snapping":false}};
+                window.cr = window.creatium;
+                window.plp = window.creatium;
+                window.error_handler = function (e, fn_id) {
+                    window.console && console.log && console.log(fn_id);
+                    window['error_handler_' + fn_id] && eval(window['error_handler_' + fn_id]);
+                    window.console && console.error && console.error(e.message);
+                };
+                    cr.api = function (v, cb) { cr.api.queue.push([v, cb]) };
+    cr.api.queue = [];
+    cr.layout = {"top":0,"left":0};
+            </script>
+    <!-- CORE -->
+    <link type="text/css" rel="stylesheet" 
+                            href="/assets/4.2/vendors.css?v=1677864214"><link type="text/css" rel="stylesheet" 
+                            href="/assets/4.2/default.css?v=1677864214"><link type="text/css" rel="stylesheet" 
+                            href="/assets/4.2/nodes.css?v=1677864214">    <script defer type="text/javascript" 
+                            src="/assets/4.2/vendors.js?v=1677864214"></script><script defer type="text/javascript" 
+                            src="/assets/4.2/default.js?v=1677864214"></script><script defer type="text/javascript" 
+                            src="/assets/4.2/nodes.js?v=1677864214"></script><link rel="preload" 
+                            href="/assets/4.2/vendors-sync.js?v=1677864214" as="script">
+            <style> 
+.node.css1 > .wrapper1 { background-color: white }
+.node.css1  { color: #333 }
+.node.css1  > .padding_top { padding-top: 9px }
+.node.css1  > .padding_bottom { padding-bottom: 9px }
+.node.css1 a { color: rgb(230, 30, 25) }
+.node.css2  { color: #333; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css2 a { color: rgb(230, 30, 25) }
+.node.css3  { color: #333; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px }
+.node.css3 a { color: rgb(230, 30, 25) }
+.svgicon.css4 .cls-1{fill:#0970de;}.svgicon.css4 .cls-2{fill:#2885ee;}.svgicon.css4 .cls-3{fill:#439cf8;}.svgicon.css4 .cls-4{fill:#db2936;}.svgicon.css4 .cls-5{fill:#ffc306;}.svgicon.css4 .cls-6{fill:#82624b;}.svgicon.css4 .cls-7{fill:#262626;}
+.textable.css5  { text-align: left; font-family: "Open Sans"; font-size: 16px; line-height: 1.6; letter-spacing: 0em; opacity: 1 }
+.btn.css6 { text-align: center } .btn.css6 { background-color: rgba(252, 85, 81, 0);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(252, 85, 81);padding-top: 5px;padding-bottom: 5px;font-size: 14px;color: rgb(0, 0, 0)!important; } .btn.css6:hover, .btn.css6.hover { background-color: rgb(255, 255, 255);border-color: rgb(30, 32, 50);color: rgb(252, 85, 81)!important; } .btn.css6:active, .btn.css6.active { background-color: rgba(255, 255, 255, 0);border-color: rgb(204, 204, 204);color: rgb(252, 85, 81)!important; } .btn.css6:before {  } .btn.css6:active:before, .btn.css6.active:before { background-color: rgba(255, 255, 255, 0); }
+.btn.css7 { text-align: center } .btn.css7 { background-color: rgba(252, 85, 81, 0);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(251, 20, 15);padding-top: 8px;padding-bottom: 8px;font-size: 14px;color: rgb(252, 85, 81)!important; } .btn.css7:hover, .btn.css7.hover { background-color: rgba(252, 52, 48, 0);border-color: rgb(210, 8, 3);color: rgb(251, 20, 15)!important; } .btn.css7:active, .btn.css7.active { background-color: rgba(252, 23, 18, 0);border-color: rgb(236, 9, 3);color: rgb(0, 0, 0)!important; } .btn.css7:before {  } .btn.css7:active:before, .btn.css7.active:before { background-color: rgba(252, 23, 18, 0); }
+.node.css8 .zigzag-bottom {    background: rgb(255, 255, 255);    background:         linear-gradient(45deg, rgb(255, 255, 255) 25%, rgba(255,255,255,0) 25%),        linear-gradient(315deg, rgb(255, 255, 255) 25%, rgba(255,255,255,0) 25%);}
+.node.css9 > .wrapper1 { background-position: center center; background-size: auto; background-repeat: repeat }
+.node.css9 > .wrapper1 > .wrapper2 { background-color: rgba(0,0,0,0.24) }
+.node.css9  { color: #FFF }
+.node.css9  > .padding_top { padding-top: 215px }
+.node.css9  > .padding_bottom { padding-bottom: 215px }
+.node.css9 a { color: rgb(230, 25, 25) }
+.node.css10  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css10 a { color: rgb(230, 25, 25) }
+.node.css11  { color: #FFF; padding-top: 5px; padding-bottom: 3px; padding-left: 0px; padding-right: 0px }
+.node.css11 a { color: rgb(230, 25, 25) }
+.textable.css12  { text-align: left; font-family: "TTNorms Regular"; font-size: 56px; line-height: 1.2; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css12  { text-align: center!important }
+.node.css13  { color: #FFF; padding-top: 25px; padding-bottom: 35px; padding-left: 5px; padding-right: 5px }
+.node.css13 a { color: rgb(230, 25, 25) }
+.textable.css14  { text-align: left; font-family: "Open Sans"; font-size: 16px; line-height: 1.6; letter-spacing: 0em; opacity: 0.5 }
+.screen-xs .textable.css14  { text-align: center!important }
+.node.css15  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 0px; padding-right: 5px }
+.node.css15 a { color: rgb(230, 25, 25) }
+.metahtml.css16 .video-button3 {
+  display: inline-block;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  line-height: 38px;
+  text-align: center;
+  font-size: 12.666666666666666px;
+  padding-left: 2.375px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  box-shadow: 0 6.666666666666667px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.metahtml.css16 .video-button3-bg {
+  display: inline-block;
+  position: relative;
+}
+
+.metahtml.css16 .video-button3-bgimg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  border-radius: 5px;
+}
+
+.metahtml.css16 .video-button3-bgimg:before {
+  content: ' ';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.metahtml.css16 .video-button3-bg img {
+  width: 637px;
+  max-width: 100%;
+}
+
+.metahtml.css16 .video-button3-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.metahtml.css16 .expan-controller + .expan {
+  display: none;
+}
+
+.metahtml.css16 .expan {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 250;
+}
+.modal.css17 .modal-dialog { width: 720px }
+.metahtml.css18 .modal2-root {
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  border-radius: 0px;
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  background-clip: padding-box;
+  outline: none;
+  opacity: 0;
+  transform: translateY(-25px);
+  transition: 300ms all ease-out;
+}
+
+.metahtml.css18 .modal2-root.is-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+.node.css19 > .wrapper1 { background-color: rgb(255, 255, 255) }
+.node.css19  { color: #333 }
+.node.css19  > .padding_top { padding-top: 100px }
+.node.css19  > .padding_bottom { padding-bottom: 150px }
+.node.css19 a { color: rgb(230, 25, 25) }
+.node.css20 .s-elements-cell { width: 33.333333333333336% }
+.node.css20 .s-elements-grid { margin: 0 -10px }
+.node.css20 .s-elements-cellwrapper { padding: 10px 10px }
+.screen-xs .node.css20 .s-elements-cell { width: 100%!important }
+.node.css21  { color: #333; padding-top: 5px; padding-bottom: 50px; padding-left: 5px; padding-right: 5px }
+.node.css21 a { color: rgb(230, 25, 25) }
+.textable.css22  { text-align: center; font-family: "TTNorms Regular"; font-size: 48px; line-height: 1.2; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css22  { text-align: center!important }
+.node.css23 > .wrapper1 { background-color: rgb(255, 255, 255); box-shadow:  0px 2px 5px 0px rgba(0, 0, 0, 0.1) }
+.node.css23  { color: #333; padding-top: 20px; padding-bottom: 20px; padding-left: 10px; padding-right: 10px }
+.node.css23 a { color: rgb(225, 25, 230) }
+.node.css24  { color: #333; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css24 a { color: rgb(225, 25, 230) }
+.svgicon.css25 path, .svgicon.css25 polygon, .svgicon.css25 circle, .svgicon.css25 ellipse, .svgicon.css25 rect { fill: rgb(252, 85, 81) } .svgicon.css25 defs > path { fill: none }.svgicon.css25 [fill="none"] { fill: none }
+.textable.css26  { text-align: left; font-family: "TTNorms Regular"; font-size: 18px; line-height: 1.2; letter-spacing: 0em; opacity: 1 }
+.svgicon.css27 .st0{fill:rgb(252, 85, 81);}
+.node.css28 > .wrapper1 { background-image: linear-gradient(to bottom, rgb(252, 85, 81) 0%, rgb(25, 77, 77) 100%) }
+.node.css28  { color: #FFF }
+.node.css28  > .padding_top { padding-top: 60px }
+.node.css28  > .padding_bottom { padding-bottom: 90px }
+.node.css28 a { color: rgb(230, 30, 25) }
+.node.css29 .s-elements-cell { width: 33.333333333333336% }
+.node.css29 .s-elements-grid { margin: 0 -15px }
+.node.css29 .s-elements-cellwrapper { padding: 10px 15px }
+.screen-xs .node.css29 .s-elements-cell { width: 100%!important }
+.node.css30  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css30 a { color: rgb(230, 30, 25) }
+.textable.css31  { text-align: center; font-family: "TTNorms Regular"; font-size: 48px; line-height: 1.1; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css31  { text-align: center!important; font-size: 38px!important }
+.node.css32  { color: #FFF; padding-top: 25px; padding-bottom: 50px; padding-left: 5px; padding-right: 5px }
+.node.css32 a { color: rgb(230, 30, 25) }
+.textable.css33  { text-align: center; font-family: "Open Sans"; font-size: 16px; line-height: 1.4; letter-spacing: 0em; opacity: 0.5 }
+.screen-xs .textable.css33  { text-align: center!important }
+.node.css34 > .wrapper1 { background-image: linear-gradient(to bottom, rgba(252, 85, 81, 0.8) 0%, rgba(25, 77, 77, 0.2) 100%); border-radius: 3px; box-shadow:  0px 6px 16px 6px rgba(0, 0, 0, 0.14) }
+.node.css34  { color: #FFF; padding-top: 60px; padding-bottom: 60px; padding-left: 5px; padding-right: 1px }
+.screen-xs .node.css34  { padding-top: 25px!important; padding-bottom: 25px!important }
+.node.css34 a { color: rgb(230, 30, 25) }
+.node.css35  { color: #FFF; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px }
+.node.css35 a { color: rgb(230, 30, 25) }
+.btn.css36 { text-align: center } .btn.css36 { background-color: rgb(247, 236, 221);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(229, 194, 145);padding-top: 8px;padding-bottom: 8px;font-size: 14px;color: rgb(0, 0, 0)!important; } .btn.css36:hover, .btn.css36.hover { background-color: rgb(238, 215, 183);border-color: rgb(215, 160, 85);color: rgb(0, 0, 0)!important; } .btn.css36:active, .btn.css36.active { background-color: rgb(230, 196, 149);border-color: rgb(222, 177, 115);color: rgb(255, 255, 255)!important; } .btn.css36:before {  } .btn.css36:active:before, .btn.css36.active:before { background-color: rgb(230, 196, 149); }
+.node.css37  { color: #FFF; padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px }
+.node.css37 a { color: rgb(230, 30, 25) }
+.node.css38 .padding { height: 40px }
+.node.css39 > .wrapper1 { background-image: linear-gradient(to bottom, rgba(252, 85, 81, 0.8) 0%, rgba(25, 77, 77, 0.41) 100%); border-radius: 5px }
+.node.css39  { color: #FFF; padding-top: 60px; padding-bottom: 60px; padding-left: 5px; padding-right: 5px }
+.screen-xs .node.css39  { padding-top: 25px!important; padding-bottom: 25px!important }
+.node.css39 a { color: rgb(230, 30, 25) }
+.node.css40 > .wrapper1 { background-image: linear-gradient(to bottom, rgba(252, 85, 81, 0.8) 0%, rgba(25, 77, 77, 0.2) 100%); border-radius: 5px }
+.node.css40  { color: #FFF; padding-top: 60px; padding-bottom: 60px; padding-left: 5px; padding-right: 5px }
+.screen-xs .node.css40  { padding-top: 25px!important; padding-bottom: 25px!important }
+.node.css40 a { color: rgb(230, 30, 25) }
+.node.css41 > .wrapper1 { background-color: white }
+.node.css41  { color: #333 }
+.node.css41  > .padding_top { padding-top: 70px }
+.screen-xs .node.css41  > .padding_top { padding-top: 40px!important }
+.node.css41  > .padding_bottom { padding-bottom: 90px }
+.screen-xs .node.css41  > .padding_bottom { padding-bottom: 46px!important }
+.node.css41 a { color: rgb(230, 30, 25) }
+.node.css42  { color: #333; padding-top: 5px; padding-bottom: 35px; padding-left: 5px; padding-right: 5px }
+.node.css42 a { color: rgb(230, 30, 25) }
+.textable.css43  { text-align: center; font-family: "TTNorms Regular"; font-size: 48px; line-height: 1.4; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css43  { text-align: center!important; font-size: 38px!important }
+.node.css44  { color: #333; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.screen-xs .node.css44  { padding-left: 5px!important; padding-right: 5px!important }
+.node.css44 a { color: rgb(230, 30, 25) }
+.textable.css45  { text-align: left; font-family: "Open Sans Light"; font-size: 20px; line-height: 1.5; letter-spacing: 0em; opacity: 0.96 }
+.screen-md .textable.css45  { font-size: 24px!important }
+.screen-sm .textable.css45  { font-size: 24px!important }
+.screen-xs .textable.css45  { text-align: center!important; font-size: 29px!important }
+.textable.css46  { text-align: left; font-family: "Open Sans Light"; font-size: 32px; line-height: 1.5; letter-spacing: 0em; opacity: 0.96 }
+.screen-xs .textable.css46  { text-align: center!important; font-size: 29px!important }
+.textable.css47  { text-align: left; font-family: "Open Sans Light"; font-size: 18px; line-height: 1.5; letter-spacing: 0em; opacity: 0.96 }
+.screen-xs .textable.css47  { text-align: center!important; font-size: 29px!important }
+.node.css48 > .wrapper1 { background-color: rgb(81, 145, 252) }
+.node.css48  { color: #FFF }
+.node.css48  > .padding_top { padding-top: 60px }
+.node.css48  > .padding_bottom { padding-bottom: 90px }
+.node.css48 a { color: rgb(25, 102, 230) }
+.node.css49  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css49 a { color: rgb(25, 102, 230) }
+.node.css50  { color: #FFF; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 110px }
+.node.css50 a { color: rgb(25, 102, 230) }
+.textable.css51  { text-align: left; font-family: "TTNorms Regular"; font-size: 48px; line-height: 1.2; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css51  { text-align: center!important }
+.node.css52  { color: #FFF; padding-top: 25px; padding-bottom: 5px; padding-left: 5px; padding-right: 190px }
+.node.css52 a { color: rgb(25, 102, 230) }
+.textable.css53  { text-align: left; font-family: "Open Sans"; font-size: 20px; line-height: 1.6; letter-spacing: 0em; opacity: 0.65 }
+.screen-xs .textable.css53  { text-align: center!important }
+.metahtml.css54 .form1-cover {
+  padding: 20px 15px;
+  background-color: rgb(255, 255, 255);
+  border-color: rgb(252, 85, 81);
+  border-style: none;
+  border-width: 2px;
+  border-radius: 5px;
+  box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+.node.css55  { color: #333; padding-top: 20px; padding-bottom: 20px; padding-left: 5px; padding-right: 5px }
+.node.css55 a { color: rgb(25, 102, 230) }
+.textable.css56  { text-align: center; font-family: "TTNorms Regular"; font-size: 20px; line-height: 1.1; letter-spacing: 0.04em; opacity: 1 }
+.screen-xs .textable.css56  { text-align: center!important }
+.node.css57  { color: #333; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px }
+.node.css57 a { color: rgb(25, 102, 230) }
+.metahtml.css58 [cr-field] {
+  padding-bottom: 14px;
+  font-size: 14px;
+  font-family: Open Sans;
+}
+
+.metahtml.css58 .name {
+  font-weight: normal;
+  font-family: Open Sans;
+  opacity: 0.8;
+  margin-bottom: 6.5px;
+  font-size: 13px;
+  word-wrap: break-word;
+  text-transform: uppercase;;
+  letter-spacing: 0.1em;;
+}
+
+.metahtml.css58 .form-control {
+  height: auto;
+  line-height: 1.2;
+  box-shadow: none;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  border-radius: 0px;
+  padding: 12px 9.6px;
+  font-size: 14px;
+  cursor: initial;
+}
+
+.metahtml.css58 .form-control:focus,
+.metahtml.css58 .form-control:focus-within {
+  border-color: rgb(252, 85, 81);
+  background-color: rgb(252, 252, 252);
+}
+
+.metahtml.css58 .form-control + .form-control {
+  margin-top: 10px;
+}
+
+.metahtml.css58 label {
+  font-weight: normal;
+  display: block;
+  cursor: pointer;
+}
+
+.metahtml.css58 textarea {
+  resize: vertical;
+}
+
+.metahtml.css58 .checkbox {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  margin: 0 5.5px 0 0;
+  line-height: 0;
+  min-height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  position: relative;
+  transition: 300ms all;
+  border-radius: 2px;
+}
+
+.metahtml.css58 .checkbox svg {
+  width: 100%;
+  opacity: 0;
+  transform: scale(0);
+  transition: 300ms all;
+}
+
+.metahtml.css58 input:hover ~ .checkbox,
+.metahtml.css58 input:focus ~ .checkbox {
+  border-color: rgb(254, 170, 168);
+}
+
+.metahtml.css58 input:checked ~ .checkbox {
+  border-color: rgb(252, 52, 48);
+  background-color: rgb(252, 85, 81);
+}
+
+.metahtml.css58 input:active ~ .checkbox {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.metahtml.css58 input:checked ~ .checkbox svg {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.metahtml.css58 .radio {
+  margin: 0;
+  margin: 0 5.5px 0 0;
+  padding: 0;
+  line-height: 0;
+  width: 22px;
+  height: 22px;
+  min-height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  position: relative;
+  transition: 300ms all;
+  border-radius: 100px;
+}
+
+.metahtml.css58 .radio:before {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 0;
+  height: 100%;
+  content: '';
+  display: block;
+  background-color: white;
+  border-radius: 100px;
+  opacity: 0;
+  transform: scale(0);
+  transition: 300ms all;
+}
+
+.metahtml.css58 input:hover ~ .radio,
+.metahtml.css58 input:focus ~ .radio {
+  border-color: rgb(254, 170, 168);
+}
+
+.metahtml.css58 input:active ~ .radio {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.metahtml.css58 input:checked ~ .radio {
+  border-color: rgb(252, 52, 48);
+  background-color: rgb(252, 85, 81);
+}
+
+.metahtml.css58 input:checked ~ .radio:before {
+  opacity: 1;
+  transform: scale(0.5);
+}
+
+.metahtml.css58 [cr-field="checkbox-list"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css58 [cr-field="checkbox-list"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="checkbox-list"] label + label {
+  margin-top: 7.333333333333333px;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] {
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -20px;
+  justify-content: space-between;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .item {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] label {
+  position: relative;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .bgimage {
+  background-size: cover;
+  display: inline-block;
+  background-position: center;
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .tick {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(252, 85, 81, 0.75);
+  transition: all 300ms;
+  opacity: 0;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .tick svg {
+  opacity: 0;
+  transition: all 300ms;
+  max-width: 26px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] .subname {
+  margin: 7px 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] input:hover ~ .bgimage .tick,
+.metahtml.css58 [cr-field="checkbox-visual"] input:focus ~ .bgimage .tick {
+  opacity: 0.5;
+}
+
+.metahtml.css58 [cr-field="checkbox-visual"] input:checked ~ .bgimage .tick,
+.metahtml.css58 [cr-field="checkbox-visual"] input:checked ~ .bgimage .tick svg {
+  opacity: 1;
+}
+
+.screen-xs .metahtml.css58 [cr-field="checkbox-visual"] .item {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+  white-space: nowrap;
+}
+
+.screen-xs .metahtml.css58 [cr-field="checkbox-visual"] .bgimage {
+  width: 25%;
+  padding-top: 25%;
+  vertical-align: middle;
+}
+
+.screen-xs .metahtml.css58 [cr-field="checkbox-visual"] .subname {
+  width: 75%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5%;
+  margin-left: -4px;
+}
+
+.metahtml.css58 [cr-field="checkbox-input"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css58 [cr-field="checkbox-input"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="radio-list"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css58 [cr-field="radio-list"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="radio-list"] label + label {
+  margin-top: 7.333333333333333px;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] {
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -20px;
+  justify-content: space-between;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .item {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] label {
+  position: relative;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .bgimage {
+  background-size: cover;
+  display: inline-block;
+  background-position: center;
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .tick {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(252, 85, 81, 0.75);
+  transition: all 300ms;
+  opacity: 0;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .tick svg {
+  opacity: 0;
+  transition: all 300ms;
+  max-width: 26px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.metahtml.css58 [cr-field="radio-visual"] .subname {
+  margin: 7px 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] input:hover ~ .bgimage .tick {
+  opacity: 0.5;
+}
+
+.metahtml.css58 [cr-field="radio-visual"] input:checked ~ .bgimage .tick,
+.metahtml.css58 [cr-field="radio-visual"] input:checked ~ .bgimage .tick svg {
+  opacity: 1;
+}
+
+.screen-xs .metahtml.css58 [cr-field="radio-visual"] .item {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+  white-space: nowrap;
+}
+
+.screen-xs .metahtml.css58 [cr-field="radio-visual"] .bgimage {
+  width: 25%;
+  padding-top: 25%;
+  vertical-align: middle;
+}
+
+.screen-xs .metahtml.css58 [cr-field="radio-visual"] .subname {
+  width: 75%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5%;
+  margin-left: -4px;
+}
+
+.metahtml.css58 [cr-field="select-menu"] select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 1;
+  color: black;
+  -webkit-appearance: none;
+}
+
+.metahtml.css58 [cr-field="select-menu"] .fa {
+  font-size: 20px;
+  line-height: 0;
+  opacity: 0.5;
+  vertical-align: middle;
+}
+
+.metahtml.css58 [cr-field="select-menu"] .flexgrid {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css58 [cr-field="select-menu"] .flexgrid .left {
+  flex-grow: 1;
+  min-width: 50%;
+  word-wrap: break-word;
+}
+
+.metahtml.css58 [cr-field="file"] svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+
+.metahtml.css58 [cr-field="file"] span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+.metahtml.css58 [cr-field="file"] input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 0;
+}
+
+.metahtml.css58 [cr-field="file"] .clean {
+  float: right;
+  opacity: 0.5;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+
+.metahtml.css58 [cr-field="file"] .clean:hover {
+  opacity: 1;
+}
+
+.metahtml.css58 [cr-field="file"] .flexgrid {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css58 [cr-field="file"] .flexgrid .center {
+  flex-grow: 1;
+  min-width: 50%;
+  word-wrap: break-word;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-sides {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-sides .left .name {
+  margin-bottom: 0;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-center .left {
+  text-align: center;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-right .left {
+  text-align: right;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid .right {
+  flex-grow: 1;
+  min-width: 25%;
+  word-wrap: break-word;
+  text-align: right;
+  font-size: 120%;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-left .right {
+  text-align: left;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-center .right {
+  text-align: center;
+}
+
+.metahtml.css58 [cr-field="result"] .flexgrid.align-right .right {
+  text-align: right;
+}
+
+.metahtml.css58 [cr-field="privacy-button"] .open {
+  text-align: center;
+  opacity: 0.5;
+  font-size: 80%;
+  cursor: pointer;
+}
+
+.metahtml.css58 [cr-field="privacy-button"] .open a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.metahtml.css58 [cr-field="privacy-checkbox"] {
+  font-size: 80%;
+}
+
+.metahtml.css58 [cr-field="privacy-checkbox"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css58 [cr-field="privacy-checkbox"] a {
+  vertical-align: middle;
+  text-decoration: none;
+  border-bottom-width: 1px;
+  border-bottom-style: dashed;
+  color: inherit;
+  cursor: pointer;
+}
+
+.metahtml.css58 [cr-field="privacy-checkbox"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css58 [cr-field="privacy-text"] {
+  font-size: 80%;
+  text-align: center;
+}
+
+.metahtml.css58 [cr-field="privacy-text"] a {
+  text-decoration: none;
+  border-bottom-width: 1px;
+  border-bottom-style: dashed;
+  color: inherit;
+  cursor: pointer;
+}
+
+.metahtml.css58 [cr-field="hidden"] {
+  opacity: 0.25;
+}
+.metahtml.css59 [cr-field] {
+  padding-bottom: 14px;
+  font-size: 14px;
+  font-family: Open Sans;
+}
+
+.metahtml.css59 .name {
+  font-weight: normal;
+  font-family: Open Sans;
+  opacity: 0.8;
+  margin-bottom: 6.5px;
+  font-size: 13px;
+  word-wrap: break-word;
+  text-transform: uppercase;;
+  letter-spacing: 0.1em;;
+}
+
+.metahtml.css59 .form-control {
+  height: auto;
+  line-height: 1.2;
+  box-shadow: none;
+  position: relative;
+  background-color: rgb(255, 255, 255);
+  color: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  border-radius: 0px;
+  padding: 12px 9.6px;
+  font-size: 14px;
+  cursor: initial;
+}
+
+.metahtml.css59 .form-control:focus,
+.metahtml.css59 .form-control:focus-within {
+  border-color: rgb(252, 85, 81);
+  background-color: rgb(252, 252, 252);
+}
+
+.metahtml.css59 .form-control + .form-control {
+  margin-top: 10px;
+}
+
+.metahtml.css59 label {
+  font-weight: normal;
+  display: block;
+  cursor: pointer;
+}
+
+.metahtml.css59 textarea {
+  resize: vertical;
+}
+
+.metahtml.css59 .checkbox {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  margin: 0 5.5px 0 0;
+  line-height: 0;
+  min-height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  position: relative;
+  transition: 300ms all;
+  border-radius: 2px;
+}
+
+.metahtml.css59 .checkbox svg {
+  width: 100%;
+  opacity: 0;
+  transform: scale(0);
+  transition: 300ms all;
+}
+
+.metahtml.css59 input:hover ~ .checkbox,
+.metahtml.css59 input:focus ~ .checkbox {
+  border-color: rgb(254, 170, 168);
+}
+
+.metahtml.css59 input:checked ~ .checkbox {
+  border-color: rgb(252, 52, 48);
+  background-color: rgb(252, 85, 81);
+}
+
+.metahtml.css59 input:active ~ .checkbox {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.metahtml.css59 input:checked ~ .checkbox svg {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.metahtml.css59 .radio {
+  margin: 0;
+  margin: 0 5.5px 0 0;
+  padding: 0;
+  line-height: 0;
+  width: 22px;
+  height: 22px;
+  min-height: auto;
+  display: inline-block;
+  vertical-align: middle;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.25);
+  position: relative;
+  transition: 300ms all;
+  border-radius: 100px;
+}
+
+.metahtml.css59 .radio:before {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 0;
+  height: 100%;
+  content: '';
+  display: block;
+  background-color: white;
+  border-radius: 100px;
+  opacity: 0;
+  transform: scale(0);
+  transition: 300ms all;
+}
+
+.metahtml.css59 input:hover ~ .radio,
+.metahtml.css59 input:focus ~ .radio {
+  border-color: rgb(254, 170, 168);
+}
+
+.metahtml.css59 input:active ~ .radio {
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.metahtml.css59 input:checked ~ .radio {
+  border-color: rgb(252, 52, 48);
+  background-color: rgb(252, 85, 81);
+}
+
+.metahtml.css59 input:checked ~ .radio:before {
+  opacity: 1;
+  transform: scale(0.5);
+}
+
+.metahtml.css59 [cr-field="checkbox-list"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css59 [cr-field="checkbox-list"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="checkbox-list"] label + label {
+  margin-top: 7.333333333333333px;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] {
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -20px;
+  justify-content: space-between;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .item {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] label {
+  position: relative;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .bgimage {
+  background-size: cover;
+  display: inline-block;
+  background-position: center;
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .tick {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(252, 85, 81, 0.75);
+  transition: all 300ms;
+  opacity: 0;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .tick svg {
+  opacity: 0;
+  transition: all 300ms;
+  max-width: 26px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] .subname {
+  margin: 7px 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] input:hover ~ .bgimage .tick,
+.metahtml.css59 [cr-field="checkbox-visual"] input:focus ~ .bgimage .tick {
+  opacity: 0.5;
+}
+
+.metahtml.css59 [cr-field="checkbox-visual"] input:checked ~ .bgimage .tick,
+.metahtml.css59 [cr-field="checkbox-visual"] input:checked ~ .bgimage .tick svg {
+  opacity: 1;
+}
+
+.screen-xs .metahtml.css59 [cr-field="checkbox-visual"] .item {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+  white-space: nowrap;
+}
+
+.screen-xs .metahtml.css59 [cr-field="checkbox-visual"] .bgimage {
+  width: 25%;
+  padding-top: 25%;
+  vertical-align: middle;
+}
+
+.screen-xs .metahtml.css59 [cr-field="checkbox-visual"] .subname {
+  width: 75%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5%;
+  margin-left: -4px;
+}
+
+.metahtml.css59 [cr-field="checkbox-input"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css59 [cr-field="checkbox-input"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="radio-list"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css59 [cr-field="radio-list"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="radio-list"] label + label {
+  margin-top: 7.333333333333333px;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] {
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .items {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: -20px;
+  justify-content: space-between;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .item {
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  margin-bottom: 20px;
+  width: 30%;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] label {
+  position: relative;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .bgimage {
+  background-size: cover;
+  display: inline-block;
+  background-position: center;
+  border-radius: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  padding-top: 100%;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .tick {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(252, 85, 81, 0.75);
+  transition: all 300ms;
+  opacity: 0;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .tick svg {
+  opacity: 0;
+  transition: all 300ms;
+  max-width: 26px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.metahtml.css59 [cr-field="radio-visual"] .subname {
+  margin: 7px 0;
+  word-wrap: break-word;
+  white-space: normal;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] input:hover ~ .bgimage .tick {
+  opacity: 0.5;
+}
+
+.metahtml.css59 [cr-field="radio-visual"] input:checked ~ .bgimage .tick,
+.metahtml.css59 [cr-field="radio-visual"] input:checked ~ .bgimage .tick svg {
+  opacity: 1;
+}
+
+.screen-xs .metahtml.css59 [cr-field="radio-visual"] .item {
+  width: 100%;
+  text-align: left;
+  margin-bottom: 10px;
+  white-space: nowrap;
+}
+
+.screen-xs .metahtml.css59 [cr-field="radio-visual"] .bgimage {
+  width: 25%;
+  padding-top: 25%;
+  vertical-align: middle;
+}
+
+.screen-xs .metahtml.css59 [cr-field="radio-visual"] .subname {
+  width: 75%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5%;
+  margin-left: -4px;
+}
+
+.metahtml.css59 [cr-field="select-menu"] select {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 1;
+  color: black;
+  -webkit-appearance: none;
+}
+
+.metahtml.css59 [cr-field="select-menu"] .fa {
+  font-size: 20px;
+  line-height: 0;
+  opacity: 0.5;
+  vertical-align: middle;
+}
+
+.metahtml.css59 [cr-field="select-menu"] .flexgrid {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css59 [cr-field="select-menu"] .flexgrid .left {
+  flex-grow: 1;
+  min-width: 50%;
+  word-wrap: break-word;
+}
+
+.metahtml.css59 [cr-field="file"] svg {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  margin-top: -5px;
+  margin-bottom: -5px;
+}
+
+.metahtml.css59 [cr-field="file"] span {
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1;
+}
+
+.metahtml.css59 [cr-field="file"] input {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 0;
+}
+
+.metahtml.css59 [cr-field="file"] .clean {
+  float: right;
+  opacity: 0.5;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+
+.metahtml.css59 [cr-field="file"] .clean:hover {
+  opacity: 1;
+}
+
+.metahtml.css59 [cr-field="file"] .flexgrid {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css59 [cr-field="file"] .flexgrid .center {
+  flex-grow: 1;
+  min-width: 50%;
+  word-wrap: break-word;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-sides {
+  display: flex;
+  align-items: center;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-sides .left .name {
+  margin-bottom: 0;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-center .left {
+  text-align: center;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-right .left {
+  text-align: right;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid .right {
+  flex-grow: 1;
+  min-width: 25%;
+  word-wrap: break-word;
+  text-align: right;
+  font-size: 100%;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-left .right {
+  text-align: left;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-center .right {
+  text-align: center;
+}
+
+.metahtml.css59 [cr-field="result"] .flexgrid.align-right .right {
+  text-align: right;
+}
+
+.metahtml.css59 [cr-field="privacy-button"] .open {
+  text-align: center;
+  opacity: 0.5;
+  font-size: 80%;
+  cursor: pointer;
+}
+
+.metahtml.css59 [cr-field="privacy-button"] .open a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.metahtml.css59 [cr-field="privacy-checkbox"] {
+  font-size: 80%;
+}
+
+.metahtml.css59 [cr-field="privacy-checkbox"] span {
+  vertical-align: middle;
+}
+
+.metahtml.css59 [cr-field="privacy-checkbox"] a {
+  vertical-align: middle;
+  text-decoration: none;
+  border-bottom-width: 1px;
+  border-bottom-style: dashed;
+  color: inherit;
+  cursor: pointer;
+}
+
+.metahtml.css59 [cr-field="privacy-checkbox"] input {
+  position: absolute;
+  width: 0;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+.metahtml.css59 [cr-field="privacy-text"] {
+  font-size: 80%;
+  text-align: center;
+}
+
+.metahtml.css59 [cr-field="privacy-text"] a {
+  text-decoration: none;
+  border-bottom-width: 1px;
+  border-bottom-style: dashed;
+  color: inherit;
+  cursor: pointer;
+}
+
+.metahtml.css59 [cr-field="hidden"] {
+  opacity: 0.25;
+}
+.node.css60 > .wrapper1 { background-color: rgba(81, 145, 252, 0.25) }
+.node.css60  { color: #333; padding-top: 5px; padding-bottom: 5px; padding-left: 10px; padding-right: 10px }
+.node.css60 a { color: rgb(25, 102, 230) }
+.btn.css61 { text-align: center } .btn.css61 { background-color: rgb(252, 85, 81);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(251, 20, 15);padding-top: 14px;padding-bottom: 14px;font-size: 16px;color: rgb(255, 255, 255)!important; } .btn.css61:hover, .btn.css61.hover { background-color: rgb(252, 52, 48);border-color: rgb(210, 8, 3);color: rgb(255, 255, 255)!important; } .btn.css61:active, .btn.css61.active { background-color: rgb(252, 23, 18);border-color: rgb(236, 9, 3);color: rgb(255, 255, 255)!important; } .btn.css61:before {  } .btn.css61:active:before, .btn.css61.active:before { background-color: rgb(252, 23, 18); }
+.node.css62 > .wrapper1 { background-color: rgb(255, 255, 255) }
+.node.css62  { color: #333 }
+.node.css62  > .padding_top { padding-top: 60px }
+.node.css62  > .padding_bottom { padding-bottom: 90px }
+.node.css62 a { color: rgb(230, 25, 25) }
+.node.css63 .s-elements-cell { width: 50% }
+.node.css63 .s-elements-grid { margin: 0 -10px }
+.node.css63 .s-elements-cellwrapper { padding: 10px 10px }
+.screen-xs .node.css63 .s-elements-cell { width: 100%!important }
+.node.css64 > .wrapper1 { background-color: rgb(246, 246, 246) }
+.node.css64  { color: #333; padding-top: 50px; padding-bottom: 50px; padding-left: 50px; padding-right: 50px }
+.node.css64 a { color: rgb(230, 25, 25) }
+.node.css65  { color: #333; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px }
+.node.css65 a { color: rgb(230, 25, 25) }
+.btn.css66 { text-align: center } .btn.css66 { background-color: rgba(252, 85, 81, 0);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;border-style: solid;border-top-width: 2px;border-bottom-width: 2px;border-left-width: 2px;border-right-width: 2px;border-color: rgb(252, 85, 81);padding-top: 8px;padding-bottom: 8px;font-size: 14px;color: rgb(252, 85, 81)!important; } .btn.css66:hover, .btn.css66.hover { background-color: rgb(252, 85, 81);border-color: rgb(252, 85, 81);color: rgb(255, 255, 255)!important; } .btn.css66:active, .btn.css66.active { background-color: rgb(252, 52, 48);border-color: rgb(252, 85, 81);color: rgb(255, 255, 255)!important; } .btn.css66:before {  } .btn.css66:active:before, .btn.css66.active:before { background-color: rgb(252, 52, 48); }
+.node.css67 > .wrapper1 { background-color: white }
+.node.css67  { color: #333 }
+.node.css67  > .padding_top { padding-top: 60px }
+.node.css67  > .padding_bottom { padding-bottom: 100px }
+.node.css67 a { color: rgb(230, 30, 25) }
+.node.css68  { color: #333; padding-top: 5px; padding-bottom: 50px; padding-left: 5px; padding-right: 5px }
+.node.css68 a { color: rgb(230, 30, 25) }
+.node.css69  { color: #333; padding-top: 5px; padding-bottom: 30px; padding-left: 5px; padding-right: 5px }
+.node.css69 a { color: rgb(230, 30, 25) }
+.node.css70 img { width: 38px }
+.node.css70 .bgnormal { text-align: center }
+.textable.css71  { text-align: center; font-family: "Open Sans"; font-size: 16px; line-height: 1.6; letter-spacing: 0em; opacity: 1 }
+.screen-xs .textable.css71  { text-align: center!important }
+.node.css72  { color: #333; padding-top: 31px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px }
+.node.css72 a { color: rgb(230, 30, 25) }
+.btn.css73 { text-align: center } .btn.css73 { background-color: rgba(252, 85, 81, 0);border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-style: solid;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-color: rgb(251, 20, 15);padding-top: 8px;padding-bottom: 8px;font-size: 14px;text-decoration: underline;color: rgb(252, 85, 81)!important; } .btn.css73:hover, .btn.css73.hover { background-color: rgba(252, 52, 48, 0);border-color: rgb(210, 8, 3);color: rgb(251, 20, 15)!important; } .btn.css73:active, .btn.css73.active { background-color: rgba(252, 23, 18, 0);border-color: rgb(236, 9, 3);color: rgb(0, 0, 0)!important; } .btn.css73:before {  } .btn.css73:active:before, .btn.css73.active:before { background-color: rgba(252, 23, 18, 0); }
+.area.screen-lg { min-width: 1200px; }.area.screen-lg .container { width: 1130px; }.area.screen-lg .container.soft { max-width: 1130px; }.area.screen-md { min-width: 960px; }.area.screen-md .container { width: 910px; }.area.screen-md .container.soft { max-width: 910px; }.area.screen-sm { min-width: 720px; }.area.screen-sm .container { width: 670px; }.area.screen-sm .container.soft { max-width: 670px; }.area.screen-xs .container { max-width: 687px; padding: 0 15px; }
+ </style>
+    
+    
+    <!-- PLUGINS -->
+    
+                    <script async type="text/javascript"
+                src="/app/sv?tech=1176619.1212620.200682&url=%2F&referer=http%3A%2F%2Fwww.yandex.ru%2F"
+        ></script>
+    
+    <!-- proxy-module cut-head -->
+</head>
+
+<body class="area font-text-opensans font-header-ttnormsregular">
+<div class="area-wrapper">
+<!-- PLUGINS -->
+
+<!-- HTML -->
+<script>
+            creatium.getWindowWidth = function () {
+                var windowWidth = window.innerWidth;
+
+                
+                if (window.innerWidth === 980 && !window.MSStream && /iPhone|iPod/.test(navigator.userAgent)) {
+                    windowWidth = window.outerWidth;
+                }
+                
+                return windowWidth;
+            }
+        
+            creatium.getScreen = function () {
+                var _windowWidth = creatium.getWindowWidth();
+
+                var lgWidth = 1190 + cr.layout._left_current;
+                var mdWidth = 962 + cr.layout._left_current;
+                var smWidth = 718 + cr.layout._left_current;
+
+                if (creatium.screens === 'screens-xs') return 'xs';
+                else if (creatium.screens === 'screens-sm') return 'sm';
+                else if (creatium.screens === 'screens-md') return 'md';
+                else if (creatium.screens === 'screens-lg') return 'lg';
+                else if (creatium.screens === 'screens-xs-sm') {
+                    if (_windowWidth >= smWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-sm-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-sm-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else return 'md';
+                } else if (creatium.screens === 'screens-xs-sm-md') {
+                    if (_windowWidth >= mdWidth) return 'md';
+                    else if (_windowWidth >= smWidth && _windowWidth < mdWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-sm-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= smWidth && _windowWidth < lgWidth) return 'sm';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-xs-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else return 'xs';
+                } else if (creatium.screens === 'screens-sm-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else return 'sm';
+                } else if (creatium.screens === 'screens-xs-sm-md-lg') {
+                    if (_windowWidth >= lgWidth) return 'lg';
+                    else if (_windowWidth >= mdWidth && _windowWidth < lgWidth) return 'md';
+                    else if (_windowWidth >= smWidth && _windowWidth < mdWidth) return 'sm';
+                    else return 'xs';
+                }
+            }
+            
+            creatium.isLayoutMobile = function () {
+                if (creatium.getScreen() !== 'xs') return false;
+                return creatium.getWindowWidth() < 320 + cr.layout.left;
+            }
+
+            cr.layout._left_current = cr.layout.left;
+            if (cr.layout._left_current) {
+                document.body.classList.add('layout-left-active');
+            }
+
+            creatium.layout.mobile = creatium.isLayoutMobile();
+            if (creatium.layout.mobile) {
+                document.body.classList.add('layout-mobile');
+            }
+
+            creatium.screen = creatium.getScreen();
+            document.body.classList.add('screen-' + creatium.screen);
+
+            if (creatium.device) {
+                creatium.device_fix = false;
+                if (creatium.screen === 'xs' && creatium.device !== 'mobile') creatium.device_fix = true;
+                if (creatium.screen === 'sm' && creatium.device !== 'tablet') creatium.device_fix = true;
+                if (creatium.screen === 'md' && creatium.device !== 'other') creatium.device_fix = true;
+                if (creatium.screen === 'lg' && creatium.device !== 'other') creatium.device_fix = true;
+                if (creatium.device_fix) document.write('<script src="' + creatium.async.js_adaptive_sections + '"></scr'+'ipt>');                    
+            }
+        </script><div class="node section-clear section font-text-opensans font-header-ttnormsregular css1" data-common="ulhp41dpefuyhoi2kuqf"><div class="padding_top"></div><div class="container"><div class="cont"><div class="node widget-grid widget css2"><div class="grid valign-middle paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 22.1945%;"><div class="cont"><div class="node widget-imagedtext widget css3"><div class="tbl middle"><div class="td icon" style="width: 32px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 32px; height: 32px;"><div data-cut="svg:ulhuytfqdqf0o4ousbs_0"></div></div></div></div><div class="td text"><div style="padding-left: 10px;"><div class="cont"></div><p class="textable css5" style="margin-top: 0px;"><span style="color: rgb(238, 29, 36);"><em><strong>Цифровая продлёнка</strong></em></span></p><div class="cont"></div></div></div></div></div></div></div><div class="col" style="width: 63.1533%;"><div class="cont"><div class="node widget-menu widget css2"><div class="w-menu-grid right"><div class="w-menu-grid__cell" data-repeater-template="" style="padding-left: 0px; padding-right: 0px;"><div class="cont cell"><div class="node widget-menu-button cr-menu-button widget css2"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy hvr-fade font-text css6" data-action="link" data-highlight="true" data-track-active="false" href="#b1" target="_self"><div class="pad-left" style="width: 15px;"></div><div class="btn-content"><span class="text">Программы</span></div><div class="pad-right" style="width: 15px;"></div></a></div></div></div></div></div><div class="w-menu-grid__cell" data-repeater-template="" style="padding-left: 0px; padding-right: 0px;"><div class="cont cell"><div class="node widget-menu-button cr-menu-button widget css2"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy hvr-fade font-text css6" data-action="link" data-highlight="true" data-track-active="false" href="#b3" target="_self"><div class="pad-left" style="width: 15px;"></div><div class="btn-content"><span class="text">Отзывы</span></div><div class="pad-right" style="width: 15px;"></div></a></div></div></div></div></div><div class="w-menu-grid__cell" data-repeater-template="" style="padding-left: 0px; padding-right: 0px;"><div class="cont cell"><div class="node widget-menu-button cr-menu-button widget css2"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy hvr-fade font-text css6" data-action="link" data-highlight="true" data-track-active="false" href="#b4" target="_self"><div class="pad-left" style="width: 15px;"></div><div class="btn-content"><span class="text">Контакты</span></div><div class="pad-right" style="width: 15px;"></div></a></div></div></div></div></div></div></div></div></div><div class="col" style="width: 14.6522%;"><div class="cont"><div class="node widget-button widget css3"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css7" data-action="link" data-highlight="true" data-track-active="false" href="http://e65b56.creatium.site" target="_blank"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Личный кабинет</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div></div></div></div></div></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section css8 css9"><div class="padding_top"></div><div class="wrapper1" data-lazy-bgimage="https://i.1.creatium.io/de/eb/9e/fee95d349458201cc98de3497007142d51/Frame%2021.png#%7B%22size%22:%5B1791,1114%5D,%22quality%22:8%7D" data-lazy-bgimage_resize="true"><div class="wrapper2"></div></div><div class="container"><div class="cont"><div class="node widget-grid widget css10"><div class="grid valign-middle paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 47.3696%;"><div class="cont"><div class="node widget-text cr-text widget css11"><h1 class="textable css12"><span style="font-size: 90%;"><span style="color: rgb(38, 38, 38);"><strong>Сопровождение школьников с выполнением ДЗ и школьной программы</strong></span></span></h1></div><div class="node widget-text cr-text widget css13"><p class="textable css14"><br></p></div></div></div><div class="col" style="width: 52.6304%;"><div class="cont"><div class="node widget-video-button widget css15"><div class="metahtml css16"><script data-name="50399884" data-lazy="true" data-cdn="[&quot;&quot;]" data-sequentially="false" data-static-params="{}" data-dynamic-params="{}" class="component-js-fn">function _component_js_50399884(page, el, params) {
+
+
+}</script><div style="text-align: center;">
+  <div class="video-button3-bg">
+    
+    <div cr-video-button="" data-modal="video" class="expan btn-modal"></div>
+    <div class="video-button3-bgimg" data-lazy-bgimage="https://i.1.creatium.io/5b/9f/e3/6a652be2435d7454e428f780ff24febd84/ulhp4519p7pcvvu3kn4v.png#%7B%22size%22:%5B1080,720%5D,%22quality%22:10%7D" data-lazy-bgimage_resize="true"></div>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAFklEQVQoU2NkoBAwUqifYdQAhuEQBgANtgAKhIZC3wAAAABJRU5ErkJggg==">
+    <div class="video-button3-wrap">
+      <div cr-video-button="" data-modal="video" class="video-button3 btn-modal">
+        <i class="fa fa-play"></i>
+      </div>
+    </div>
+  </div>
+</div></div><div class="modal nocolors css17" data-name="video" data-type="modal" data-duration="300" data-id=""><div data-uid="ulhuyten1jlmj3ku4ner_0"></div></div></div></div></div></div></div></div></div></div><div class="padding_bottom"></div><div class="separatorbottom"><div class="zigzag-bottom" style="background-size: 44px 100%; height: 44px; background-position: 0px -22px; margin-bottom: -22px;"></div></div></div><div class="node section-elements section css19 css20" id="b1"><div class="corner bottom-float"></div><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="s-elements-container container sm-wrap xs-wrap"><div class="s-elements-content"><div class="cont"><div class="node widget-text cr-text widget css21"><h2 class="textable css22"><strong>Программы</strong></h2></div></div><div class="s-elements-grid valign-top halign-center use-table"><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqe0ashygu4s72b_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Индивидуальное занятие</strong></h2><p class="textable css5" style="margin-top: 4px;">Персональный подход<span>&nbsp;</span></p><div class="cont"></div></div></div></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqeeyduxrl92h_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Групповое занятие</strong></h2><p class="textable css5" style="margin-top: 4px;">Каждая группа состоит из 5-10 человек</p><div class="cont"></div></div></div></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqe8xauiu6omng_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Для детей и подростков</strong></h2><p class="textable css5" style="margin-top: 4px;">Подготовка к ГИА, ЕГЭ</p><div class="cont"></div></div></div></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqeyumm941hnx9_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Интенсивный курс</strong></h2><p class="textable css5" style="margin-top: 4px;">Решение школьной программы</p><div class="cont"></div></div></div></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqe63qv6qt5qwh_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Корпоративное обучение</strong></h2><p class="textable css5" style="margin-top: 4px;">Обучение с вашими сверстниками</p><div class="cont"></div></div></div></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css23"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-imagedtext widget css24"><div class="tbl middle"><div class="td icon" style="width: 70px;"><div class="wrap"><div><img class="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII=" style="width: 70px; height: 70px;"><div data-cut="svg:ulhuytfqexnkufuaoxrp_0"></div></div></div></div><div class="td text"><div style="padding-left: 12px;"><div class="cont"></div><h2 class="textable css26" style="margin-bottom: 4px;"><strong>Клубный кооператив</strong></h2><p class="textable css5" style="margin-top: 4px;">Ведение беседы внутри групп</p><div class="cont"></div></div></div></div></div></div></div></div></div></div></div><div class="cont"></div></div></div><div class="padding_bottom"></div></div><div class="node section-elements section css28 css29"><div class="corner bottom-float"></div><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="s-elements-container container sm-wrap xs-wrap"><div class="s-elements-content"><div class="cont"><div class="node widget-text cr-text widget css30"><h2 class="textable css31">Индивидуальное занятие</h2></div><div class="node widget-text cr-text widget css32"><p class="textable css33">Подготовка к ЕГЭ/ОГЭ и изучение теории только по предварительной записи, чтобы подобрать больше полезной информации, которая поможет вам.</p></div></div><div class="s-elements-grid valign-top halign-center use-flex"><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css34"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-button widget css35"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css36" data-action="link" data-highlight="true" data-track-active="false" href="http://f306ed.creatium.site" target="_self"><div class="pad-left" style="width: 24px;"></div><div class="btn-content"><span class="text">Подготовка к ОГЭ/ЕГЭ</span></div><div class="pad-right" style="width: 24px;"></div></a></div></div></div><div class="node widget-blank widget css37 css38"><div class="padding"></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css39"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-button widget css35"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css36" data-action="link" data-highlight="true" data-track-active="false" href="http://4e3360.creatium.site" target="_self"><div class="pad-left" style="width: 24px;"></div><div class="btn-content"><span class="text">Помощь с ДЗ</span></div><div class="pad-right" style="width: 24px;"></div></a></div></div></div><div class="node widget-blank widget css37 css38"><div class="padding"></div></div></div></div></div></div></div><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css40"><div class="wrapper1"><div class="wrapper2"></div></div><a href="https://" target=""><div class="cont"><div class="node widget-button widget css35"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css36" data-action="link" data-highlight="true" data-track-active="false" href="http://0b927f.creatium.site" target="_self"><div class="pad-left" style="width: 24px;"></div><div class="btn-content"><span class="text">Изучить теорию</span></div><div class="pad-right" style="width: 24px;"></div></a></div></div></div><div class="node widget-blank widget css37 css38"><div class="padding"></div></div></div></a></div></div></div></div></div><div class="cont"></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section css41"><div class="padding_top"></div><div class="container"><div class="cont"><div class="node widget-text cr-text widget css42"><h1 class="textable css43">Подробная информация о групповых программах.</h1></div><div class="node widget-text cr-text widget css44"><p class="textable css45">Вы можете получить доступ к общему чату с ребятами, у которых возникли вопросы в похожих темах.</p></div><div class="node widget-text cr-text widget css44"><p class="textable css45">Также вы можете заниматься с вашим куратором по отдельности. Он будет выдавать вам домашнее задание и после проверять его.</p></div><div class="node widget-text cr-text widget css44"><p class="textable css46"><br></p></div><div class="node widget-text cr-text widget css44"><p class="textable css47">Для получения более подробной информации оставьте отдельную заявку.</p></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section css48"><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="container"><div class="cont"><div class="node widget-grid widget css49"><div class="grid valign-middle paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 60.8696%;"><div class="cont"><div class="node widget-text cr-text widget css50"><h2 class="textable css51"><strong>Выберите любую программу и оставьте заявку</strong></h2></div><div class="node widget-text cr-text widget css52"><p class="textable css53">Наши модераторы проинформируют вас по каждой программе</p></div></div></div><div class="col" style="width: 39.1304%;"><div class="cont"><div class="node widget-form2 cr-form widget css49" data-form="{&quot;action&quot;:&quot;order&quot;,&quot;name&quot;:&quot;Виджет \&quot;Форма\&quot;&quot;,&quot;after&quot;:&quot;msg&quot;,&quot;msg&quot;:&quot;Спасибо!\nВаша заявка отправлена.\nВ ближайшее время мы с Вами свяжемся!&quot;,&quot;url&quot;:&quot;/&quot;,&quot;urlauto&quot;:true,&quot;urlclean&quot;:true,&quot;addhtml&quot;:&quot;<!-- Этот код будет вставлен перед закрывающим тегом BODY -->&quot;,&quot;js&quot;:&quot;alert(\&quot;Этот код выполняется после успешного отправления заявки.\&quot;);&quot;,&quot;sequence&quot;:&quot;stepwise&quot;}" data-isquiz="false"><div style="max-width: 384px; position: relative; margin-left: auto; margin-right: auto;"><div class="metahtml css54"><div class="form1-cover">
+	<div cr-form-container="" colorside="cover_bgcolored?cover_bgcolor.colorside():_colorside"><div class="cont"><div class="node widget-text cr-text widget css55"><h3 class="textable css56"><strong>Заявка</strong></h3></div><div class="node widget-field cr-field widget css57"><div class="metahtml css58" data-vals="{&quot;condition&quot;:&quot;&quot;,&quot;variable&quot;:&quot;&quot;,&quot;variable2&quot;:&quot;&quot;,&quot;text&quot;:&quot;Имя&quot;,&quot;type&quot;:&quot;name&quot;,&quot;required&quot;:false,&quot;id&quot;:&quot;&quot;,&quot;valueOn&quot;:&quot;1&quot;,&quot;valueOff&quot;:&quot;0&quot;,&quot;privacy_checkbox&quot;:&quot;Даю согласие на <обработку персональных данных>&quot;,&quot;typing&quot;:&quot;string&quot;,&quot;formula&quot;:&quot;&quot;,&quot;format&quot;:&quot;%result% руб.&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;100&quot;,&quot;step&quot;:&quot;1&quot;,&quot;template&quot;:&quot;&quot;}"><div cr-field="name" class="is-text">
+  <div class="name">
+    Имя 
+  </div>
+  <div class="input">
+    <input type="text" il-action="listen" autocomplete="name" value="" class="form-control">
+  </div>
+  <div cr-field-addon=""><div class="metahtml"></div></div>
+</div></div></div><div class="node widget-field cr-field widget css57"><div class="metahtml css59" data-vals="{&quot;condition&quot;:&quot;&quot;,&quot;variable&quot;:&quot;&quot;,&quot;variable2&quot;:&quot;&quot;,&quot;text&quot;:&quot;Номер телефона&quot;,&quot;type&quot;:&quot;phone&quot;,&quot;required&quot;:true,&quot;id&quot;:&quot;&quot;,&quot;valueOn&quot;:&quot;1&quot;,&quot;valueOff&quot;:&quot;0&quot;,&quot;privacy_checkbox&quot;:&quot;Даю согласие на <обработку персональных данных>&quot;,&quot;typing&quot;:&quot;string&quot;,&quot;formula&quot;:&quot;&quot;,&quot;format&quot;:&quot;%result% руб.&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;100&quot;,&quot;step&quot;:&quot;1&quot;,&quot;template&quot;:&quot;&quot;}"><div cr-field="phone" class="is-text">
+  <div class="name">
+    Номер телефона *
+  </div>
+  <div class="input">
+    <input type="text" il-action="listen" autocomplete="tel" value="" class="form-control">
+  </div>
+  <div cr-field-addon=""><div class="metahtml"></div></div>
+</div></div></div><div class="node widget-field cr-field widget css57"><div class="metahtml css59" data-vals="{&quot;condition&quot;:&quot;&quot;,&quot;variable&quot;:&quot;&quot;,&quot;variable2&quot;:&quot;&quot;,&quot;text&quot;:&quot;Выбрать программу &quot;,&quot;type&quot;:&quot;select-menu&quot;,&quot;required&quot;:true,&quot;id&quot;:&quot;&quot;,&quot;valueOn&quot;:&quot;1&quot;,&quot;valueOff&quot;:&quot;0&quot;,&quot;privacy_checkbox&quot;:&quot;Даю согласие на <обработку персональных данных>&quot;,&quot;typing&quot;:&quot;string&quot;,&quot;formula&quot;:&quot;&quot;,&quot;format&quot;:&quot;%result% руб.&quot;,&quot;min&quot;:&quot;0&quot;,&quot;max&quot;:&quot;100&quot;,&quot;step&quot;:&quot;1&quot;,&quot;template&quot;:&quot;&quot;}"><div cr-field="select-menu">
+  <div class="name">
+    Выбрать программу  *
+  </div>
+  <div class="form-control">
+    <select il-action="listen"><option>&nbsp;</option><option data-item-text="Индивидуальное занятие" data-item-value="0">Индивидуальное занятие</option><option data-item-text="Групповое занятие" data-item-value="0">Групповое занятие</option><option data-item-text="Для детей и подростков" data-item-value="0">Для детей и подростков</option><option data-item-text="Интенсивный курс" data-item-value="0">Интенсивный курс</option><option data-item-text="Корпоративное обучение" data-item-value="0">Корпоративное обучение</option><option data-item-text="Клубный кооператив" data-item-value="0">Клубный кооператив</option></select>
+    <div class="flexgrid">
+      <div cr-field_value="" class="left">&nbsp;</div>
+      <div class="right">
+        <i class="fa fa-angle-down"></i>
+      </div>
+    </div>
+  </div>
+  <div cr-field-addon=""><div class="metahtml"></div></div>
+</div></div></div><div class="node widget-button widget css60"><div class="wrapper1"><div class="wrapper2"></div></div><div class="button-container full"><div class="button-wrapper"><button class="btn btn-legacy font-text css61" data-action="send"><div class="pad-left" style="width: 28px;"></div><div class="btn-content"><span class="text">Отправить заявку</span></div><div class="pad-right" style="width: 28px;"></div></button></div></div></div></div></div>
+</div></div></div></div></div></div></div></div></div></div></div><div class="padding_bottom"></div></div><div class="node section-elements section css62 css63" id="b3"><div class="corner bottom-float"></div><div class="padding_top"></div><div class="wrapper1"><div class="wrapper2"></div></div><div class="s-elements-container container sm-wrap xs-wrap"><div class="s-elements-content"><div class="cont"><div class="node widget-text cr-text widget css21"><h2 class="textable css22"><strong>Отзывы</strong></h2></div></div><div class="s-elements-grid valign-top halign-center use-flex"><div class="s-elements-cell" data-repeater-template=""><div class="s-elements-cellwrapper"><div class="cont cell"><div class="node widget-element widget css64"><div class="wrapper1"><div class="wrapper2"></div></div><div class="cont"><div class="node widget-button widget css65"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css66" data-action="link" data-highlight="true" data-track-active="false" href="http://24de9f.creatium.site" target="_self"><div class="pad-left" style="width: 24px;"></div><div class="btn-content"><span class="text">Напишите про нас отзыв...&nbsp;</span></div><div class="pad-right" style="width: 24px;"></div></a></div></div></div></div></div></div></div></div></div><div class="cont"></div></div></div><div class="padding_bottom"></div></div><div class="node section-clear section font-text-opensans font-header-ttnormsregular css67" id="b4" data-common="ulhp41dpew22oeebgc1o"><div class="padding_top"></div><div class="container"><div class="cont"><div class="node widget-text cr-text widget css68"><h2 class="textable css22"><strong>Контакты</strong></h2></div><div class="node widget-grid widget css69"><div class="grid valign-top paddings-20px xs-wrap"><div class="gridwrap"><div class="col" style="width: 33.3333%;"><div class="cont"><div class="node widget-icon widget css2 css70"><div class="bgnormal"><div class="svgwrap"><img class="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII="><div data-cut="svg:ulhuytfqem6mznvbik7p_0"></div></div></div><noscript><img src="//static.creatium.io/svg/icons-solid/phone-18.svg" alt=""></noscript></div><div class="node widget-text cr-text widget css2"><p class="textable css71">+7 (495) 555 77 88</p></div><div class="node widget-text cr-text widget css2"><p class="textable css71">+7 (800) 123 45 67</p></div></div></div><div class="col" style="width: 33.3333%;"><div class="cont"><div class="node widget-icon widget css2 css70"><div class="bgnormal"><div class="svgwrap"><img class="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII="><div data-cut="svg:ulhuytfqfjckq00mlcae_0"></div></div></div><noscript><img src="//static.creatium.io/svg/icons-solid/email-9.svg" alt=""></noscript></div><div class="node widget-text cr-text widget css2"><p class="textable css71">info@address.com</p></div></div></div><div class="col" style="width: 33.3333%;"><div class="cont"><div class="node widget-icon widget css2 css70"><div class="bgnormal"><div class="svgwrap"><img class="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAEAAQMAAABmvDolAAAAA1BMVEVMaXFNx9g6AAAAAXRSTlMAQObYZgAAAB9JREFUeAHtwQEBAAAIAqD+r+5GKTAAAAAAAAAAAM8tIQAAAYRf8qsAAAAASUVORK5CYII="><div data-cut="svg:ulhuytfqfotg7pk7o3p_0"></div></div></div><noscript><img src="//static.creatium.io/svg/icons-solid/edition-17.svg" alt=""></noscript></div><div class="node widget-text cr-text widget css2"><p class="textable css71">г. Москва, Нижняя Первомайская 8</p></div><div class="node widget-text cr-text widget css2"><p class="textable css71"><span>&nbsp;</span></p></div></div></div></div></div></div><div class="node widget-button widget css72"><div class="button-container center"><div class="button-wrapper"><a class="btn btn-legacy font-text css73" data-action="link" data-highlight="true" data-track-active="false" href="/privacy" target="_blank"><div class="pad-left" style="width: 12px;"></div><div class="btn-content"><span class="text">Политика конфиденциальности</span></div><div class="pad-right" style="width: 12px;"></div></a></div></div></div></div></div><div class="padding_bottom"></div></div><div class="node section section-helper css74"></div>
+<!-- CREATIUM FOOTER -->
+    <div id="powered-by" style="text-align: center; padding: 15px;">
+        Работает на <a href="https://creatium.io">Creatium</a>    </div>
+
+<!-- CORE -->
+<script type="text/javascript" 
+                            src="/assets/4.2/vendors-sync.js?v=1677864214"></script>
+<!-- DEFER -->
+    
+<!-- PLUGINS -->
+</div></body>
+</html>
